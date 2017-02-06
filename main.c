@@ -2,6 +2,7 @@
 
 main ()
 {
-printf("HELLO WORLD!");
-renturn 0;
+printf("HELLO WORLD!);
+;
+return 0;
 }
